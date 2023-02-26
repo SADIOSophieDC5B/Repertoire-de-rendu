@@ -1,0 +1,20 @@
+Id,Nom de la tondeuse,Puissance,Autonomie,Energie
+01,Tond1,230V,1H,Gaz
+02,Tond2,240V,2H,Electrique
+03,Tond3,320V,3H,solaire
+04,Tond4,360V,4h,Electrique
+05,Tond5,230V,1H,Gaz
+06,Tond6,240V,2H,Electrique
+07,Tond7,320V,3H,solaire
+08,Tond8,360V,4h,Electrique
+09,Tond9,230V,1H,Gaz
+10,Tond10,240V,2H,Electrique
+11,Tond11,320V,3H,solaire
+12,Tond12,360V,4h,Electrique
+13,Tond13,230V,1H,Gaz
+14,Tond14,240V,2H,Electrique
+15,Tond15,320V,3H,solaire
+16,Tond16,360V,4h,Electrique
+17,Tond17,230V,1H,Gaz
+18,Tond18,240V,2H,Electrique
+19,Tond19,320V,3H,solaire
